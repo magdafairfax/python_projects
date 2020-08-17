@@ -1,60 +1,32 @@
 Roman road,Approximate distance,Route,Via,Counterpart modern roadsA
 Ackling Dyke,22 miles,Old Sarum (Sorviodunum) to Badbury Rings,Cranborne Chase,A354 at Woodyates
-,35 km,,,
 Akeman Street (1),78 miles,St Albans (Verulamium) to Cirencester (Corinium),Bicester (Alchester),A41 from Bicester to Tring
-,126 km,,,
 Akeman Street (2),76 miles,Wimpole to Brancaster (Branodunum),Cambridge (Duroliponte),A603 from Wimpole to Cambridge then A10 to Ely
-,123 km,,,
-Batham Gate,,Buxton (Aquae Arnemetiae) to Templebrough,,"B6049 Bradwell, Derbyshire"
+Batham Gate,,Buxton (Aquae Arnemetiae) to Templebrough,"B6049 Bradwell, Derbyshire","B6049 Bradwell, Derbyshire"
 Cade's Road,100 miles,Brough (Petuaria) to Newcastle upon Tyne (Pons Aelius),York (Eboracum); Thirsk;,A1034/1079 Brough-York
-,160 km,,Stockton; Sadberge; Sedgefield; Chester-le-Street (Concangis); Gateshead,
 Dere Street,180 miles,York (Eboracum) to Antonine Wall at Carriden (Veluniate),Catterick (Cataractonium); Binchester (Bishop Auckland; Vinovia); Corbridge (Coria) on Hadrian's Wall,A59 York to A1(M)
-,290 km,,,
 Devil's Causeway,55 miles,Hadrian's Wall/Dere Street to Berwick-upon-Tweed,"Hartburn, Powburn, Lowick",Stretches of the A697
-,90 km,,,
 Devil's Highway,,London (Londinium) to Silchester (Calleva),London (Londinium); Staines (Pontes); Silchester (Calleva),Short stretches of the A30 and A315
 Ermin Way,68 miles,Silchester (Calleva) to Gloucester (Glevum),Gloucester (Glevum); Cirencester (Corinium); Silchester (Calleva); the Devil's Highway,"B4000 Newbury to Stratton, Swindon, A419 Stratton, Swindon to Cirencester, A417 Cirencester to Gloucester"
-,77 km,,,
 Ermine Street,200 miles,London (Londinium) to York (Eboracum),Godmanchester (near Huntingdon; Durovigutum); Water Newton (Peterborough; Durobrivae); Lincoln (Lindum),A10 London-Royston; A1198 Royston-Huntingdon; A15 Lincoln-Broughton; A1034/1079 Brough-York
-,322 km,,,
-Fen Causeway,90 miles,"Water Newton (Peterborough; Durobrivae) to Brampton, Norfolk",,A1122 Downham Market-Swaffham
-,145 km,,,
-Ffordd Fleming[17],67 miles,Pumsaint (Luentinum) to,,Fishguard to Bangor Trunk Road
-,107 km,St David's (Menevia/Menapia),,
+Fen Causeway,90 miles,"Water Newton (Peterborough; Durobrivae) to Brampton, Norfolk",A1122 Downham Market-Swaffham,A1122 Downham Market-Swaffham
+Ffordd Fleming[17],67 miles,Pumsaint (Luentinum) to,Fishguard to Bangor Trunk Road,Fishguard to Bangor Trunk Road
 Fosse Way,220 miles,Exeter (Isca Dumnoniorum) to Lincoln (Lindum),"Ilchester (Lindinis), Bath (Aquae Sulis), Cirencester (Corinium), Leicester (Ratae)",A37 Ilchester-Shepton Mallet;
-,354 km,,,A429 Cirencester-Halford;
-,,,,B4455 Halford-High Cross;
-,,,,A46 Leicester-Lincoln 
 The Great Road,,London (Londinium’s Aldgate) to Colchester (Camulodunum),London (Londinium’s Aldgate); Colchester (Camulodunum); Pye Road,
 Hen Ffordd[17],24 miles,Pumsaint (Luentinum) to Carmarthen (Maridunum),,
 ,38 km,,,
 Icknield Street,125 miles,"Bourton-on-the-Water (near Stow-on-the-Wold) to Templeborough (near Rotherham, Yorkshire)",Alcester; Metchley (Birmingham); Lichfield (Letocetum); Derby (Derventio),"B4085 and A435 in Warwickshire, A38 Lichfield-Derby"
 Ryknild StreetB,200 km,,,
 King Street,40 miles,"Water Newton (Peterborough; Durobrivae) to South Kesteven, Lincolnshire",Lolham,Short stretch of the A15
-,64 km,,,
 Maiden Way,20 miles,Kirkby Thore (Bravoniacum) to Carvoran (Magnae),Kirkby Thore (Bravoniacum); Whitley Castle (Epiacum); Carvoran (Magnae),The Pennine Way follows the route over Lambley Common
-,32 km,,,
 Military Way,73 miles,Wallsend (Newcastle upon Tyne; Segedunum) to Bowness-on-Solway (Maia),"Built as a supply route for Hadrian's Wall, just to the south of it via Housesteads",None
-,117 km,,,
 Peddars Way,47 miles,"Holme-next-the-Sea (near Hunstanton, Norfolk) to Knettishall Heath (near Thetford, Norfolk)",Castle Acre,None
-,76 km,,,
 Port Way,133 miles,Silchester (Calleva) to Weymouth,"Dorchester (Durnovaria); Old Sarum (Sorviodunum, Old Salisbury); Silchester (Calleva); the Devil's Highway",None 
-Portway,214 km,,,
 Pye Road,,Caistor St Edmund (Venta Icenorum) to Colchester (Camulodunum),Caistor St Edmund (Venta Icenorum); Colchester (Camulodunum); the Great Road,A140 road
 Sarn Helen,160 km (99 mi),Aberconwy (Canovium) to Carmarthen (Moridunum),"Betws-y-Coed, Trawsfynydd (Tomen y Mur), Bremia, Bronant, Dolaucothi, Llandovery (Alabum)",A470
-,,,,A487
-,,,,A470
-,,,,A483
 Stane Street (1),57 miles,London to Chichester (Noviomagus),"Morden, Ewell, Dorking, Billingshurst, Pulborough, Bignor",A3 Newington-Clapham;
-,91 km,,,A24 Clapham-Ewell;
-,,,,A29 Rowhook-Pulborough;
-,,,,A285 Halnaker-Chichester
 Stane Street (2),39 miles (63 km),Braughing to Colchester (Camulodunum)[5],,B1256 Bishop's Stortford-Braintree; A120 Braintree-Colchester
 Stanegate,44 miles,Carlisle (Luguvalium) to Corbridge (Coria),"South of Hadrian's Wall, which it predated, via Vindolanda",None
-,71 km,,,
 Stone Street,15 miles,Canterbury (Durovernum) to Lympne,,B2068 from the M20 motorway to Canterbury
-,24 km,,,
 Via DevanaC,31 miles,Colchester to Chester,"Colchester (Camulodunum), Wixoe, Cambridge (Duroliponte), Huntingdon/Godmanchester, Corby, Medbourne, Leicester (Ratae Corieltauvorum), Mancetter (Manduessedum), Water Eaton (Pennocrucium), Newport, Whitchurch (Mediolanum), Chester (Deva Victrix)","Worsted Street, or Wool Street, from Wixoe to Cambridge.[18][19] A1307 from Cambridge to Godmanchester"
-,49.88 km,,,
 Wade's CausewayD,Up to 25 miles,"Dunsley Bay to Malton, North Yorkshire",,None
-,Up to 40 km,,,
