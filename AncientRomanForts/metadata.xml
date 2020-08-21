@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:METS xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/TR/xlink/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" OBJEDIT="/admin/item?itemID=162" OBJID="/handle/10672/88" PROFILE="DSPACE METS SIP Profile 1.0" LABEL="DSpace Item" ID="hdl:10672/88">
+<mets:dmdSec GROUPID="group_dmd_0" ID="dmd_1">
+<mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="DIM">
+<mets:xmlData>
+<dim:dim dspaceType="ITEM">
+<dim:field element="contributor" mdschema="dc">Blackwood, Carol</dim:field>
+<dim:field element="contributor" qualifier="other" language="en" mdschema="dc">EDINA</dim:field>
+<dim:field element="coverage" qualifier="spatial" language="en" mdschema="dc">northlimit=56.3086;eastlimit=1.7345;southlimit=50.708;westlimit=-3.8773;</dim:field>
+<dim:field element="coverage" qualifier="temporal" mdschema="dc">2010-10-07</dim:field>
+<dim:field element="date" qualifier="accessioned" mdschema="dc">2010-10-07T15:02:02Z</dim:field>
+<dim:field element="date" qualifier="available" mdschema="dc">2010-10-07T15:02:02Z</dim:field>
+<dim:field element="date" qualifier="issued" mdschema="dc">2010-10-07</dim:field>
+<dim:field element="identifier" mdschema="dc">http://www.sharegeo.ac.uk/bitstream/handle/10672/88/Roman Roads.zip?sequence=1</dim:field>
+<dim:field element="identifier" qualifier="uri" mdschema="dc">http://hdl.handle.net/10672/88</dim:field>
+<dim:field element="description" qualifier="abstract" language="en" mdschema="dc">GB Roman Roads extracted from Ordnance Survey Strategi data which is available from OS Open Data.  Roman Roads were extracted from the land_use_polyline dataset and merged to create a GB wide dataset.</dim:field>
+<dim:field element="format" language="en" mdschema="dc">ESRI Shapefile</dim:field>
+<dim:field element="language" qualifier="iso" language="en" mdschema="dc">en</dim:field>
+<dim:field element="rights" language="en" mdschema="dc">This data is made available under the Public Domain Dedication and License v1.0 whose full text can be found at http://www.opendatacommons.org/licenses/pddl/1.0/</dim:field>
+<dim:field element="subject" language="en" mdschema="dc">Roman roads</dim:field>
+<dim:field element="subject" language="en" mdschema="dc">Antiquities</dim:field>
+<dim:field element="subject" qualifier="classification" language="en" mdschema="dc">Geo Scientific Information</dim:field>
+<dim:field element="title" language="en" mdschema="dc">GB Roman Roads</dim:field>
+<dim:field element="type" language="en" mdschema="dc">GIS vector data</dim:field>
+</dim:dim>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+<mets:fileGrp USE="CONTENT">
+<mets:file CHECKSUMTYPE="MD5" GROUPID="group_file_233" ID="file_233" MIMETYPE="application/zip" SIZE="28763" CHECKSUM="649ea8fceba302e97f76dcddbbfa009a">
+<mets:FLocat LOCTYPE="URL" xlink:title="Roman Roads.zip" xlink:type="locator" xlink:href="/bitstream/handle/10672/88/Roman%20Roads.zip?sequence=1"/>
+</mets:file>
+</mets:fileGrp>
+<mets:fileGrp USE="LICENSE">
+<mets:file CHECKSUMTYPE="MD5" GROUPID="group_file_234" ID="file_234" MIMETYPE="text/plain; charset=utf-8" SIZE="127" CHECKSUM="44d9ed4f6902860fbb92bf26df40fc3b">
+<mets:FLocat LOCTYPE="URL" xlink:title="license.txt" xlink:type="locator" xlink:href="/bitstream/handle/10672/88/license.txt?sequence=-1"/>
+</mets:file>
+</mets:fileGrp>
+</mets:fileSec>
+<mets:structMap LABEL="DSpace" TYPE="LOGICAL">
+<mets:div DMDID="dmd_1" TYPE="DSpace Item">
+<mets:div ID="div_2" TYPE="DSpace Content Bitstream">
+<mets:fptr FILEID="file_233"/>
+</mets:div>
+</mets:div>
+</mets:structMap>
+</mets:METS>
